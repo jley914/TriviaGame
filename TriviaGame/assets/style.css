@@ -1,0 +1,86 @@
+body{
+    height: 935px;
+    /* background-image: url(img); */
+    background-color: beige;
+
+}
+#timer{
+    color: black;
+    font-size: 20px;
+
+
+}
+h1{
+    color: black;
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    color:black;
+    margin: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    margin: auto;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+#triviaGameLogo{
+    margin-bottom: 30px;
+    background-color: darkgrey;
+    text-align: center;
+    width: 100%;
+
+}
+
+#mainGame{
+    margin: auto;
+    background-color: teal;
+    height: 650px;
+    width: 33.33%;
+    text-align: center;
+    margin: 80, 50, 80, 50, solid, black;
+
+}
+button{
+    color: black;
+
+}
+footer{
+    background-color: dimgray;
+    color: black;
+    text-align: center;
+    height: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    width: 100%;
+}
+#copy{
+    font-size: 14px;
+    color: black;
+    text-align: center;
+
+}
+
+#answerSpace {
+padding-top: 100px;    
+text-align: center;
+margin-top: 100;
+color: black;
+background-color: darkcyan;
+
+}
+
+#questionSpace{
+    text-align: center;
+    margin-top: 250px;
+    padding-top: 100px;
+
+}
+
+
+#reset{
+
+    margin: 25px;
+}
+
